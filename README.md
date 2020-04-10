@@ -1,6 +1,6 @@
 # CordHost
 
-A simple little social media app I made in 8 hours. Uses Expressjs, NEDB, crypto, and bcrypt.
+A simple little social media app I made in 8 (It was functional in 8 hours, but I worked on it more) hours. Uses Expressjs, NEDB, crypto, and bcrypt.
 
 # Installation
 
